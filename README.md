@@ -17,5 +17,5 @@ NEF (Nikon Electronic Format) Previewer for Seer
 
 ## Installation Instructions
 * Go to the `Plugins` section in Seer's `Settings` dialog.
-* Select the `Loca`l tab.
+* Select the `Local` tab.
 * Click the `Add` button and select the `plugin.json` file.
