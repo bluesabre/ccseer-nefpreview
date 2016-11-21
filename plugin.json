@@ -1,0 +1,7 @@
+{
+"name":"NEF (Nikon Electronic Format) Previewer",
+"suffix":[
+"nef"
+],
+"exec":"nef2jpeg.exe \"*SEER_INPUT_PATH*\" \"*SEER_OUTPUT_PATH*\""
+}
