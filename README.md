@@ -16,6 +16,8 @@ NEF (Nikon Electronic Format) Previewer for Seer
 * Copy `plugin.json` to `dist\nef2jpeg\`
 
 ## Installation Instructions
+* Grab the [latest release](https://github.com/bluesabre/ccseer-nefpreview/releases).
+* Extract the downloaded zip (somewhere you won't be deleting it)
 * Go to the `Plugins` section in Seer's `Settings` dialog.
 * Select the `Local` tab.
 * Click the `Add` button and select the `plugin.json` file.
